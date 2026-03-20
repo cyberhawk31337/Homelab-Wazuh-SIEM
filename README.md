@@ -22,7 +22,7 @@ graph TD
     D -->|Investigate| E[Analyst]
     
     style A fill:#f96,stroke:#333
-    style B fill:#bbf,stroke:#333
+    style B fill:#f9c,stroke:#333
     style C fill:#bfb,stroke:#333
     style D fill:#ff9,stroke:#333
     style E fill:#f9c,stroke:#333
