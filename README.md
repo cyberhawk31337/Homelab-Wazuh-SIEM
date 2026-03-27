@@ -2,7 +2,7 @@
 
 > Self-hosted Security Information and Event Management (SIEM) system for threat detection and incident response.
 
-![Status](https://img.shields.io/badge/Status-Incomplete-darkred)
+![Status](https://img.shields.io/badge/Status-Incomplete-red)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-orange)
 
